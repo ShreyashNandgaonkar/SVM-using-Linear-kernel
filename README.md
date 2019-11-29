@@ -1,2 +1,4 @@
 # SVM-using-Linear-kernel
 A support vector machine (SVM) is a type of supervised machine learning classification algorithm. SVM differs from the other classification algorithms in the way that it chooses the decision boundary that maximizes the distance from the nearest data points of all the classes. An SVM doesn't merely find a decision boundary; it finds the most optimal decision boundary. The most optimal decision boundary is the one which has maximum margin from the nearest points of all the classes. The nearest points from the decision boundary that maximize the distance between the decision boundary and the points are called support vectors. The decision boundary in case of support vector machines is called the maximum margin classifier, or the maximum margin hyper plane.
+
+I have used Bill authentication dataset which is available on UCI repository
